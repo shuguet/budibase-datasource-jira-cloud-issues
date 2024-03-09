@@ -9,11 +9,11 @@
     "watch": "rollup -cw"
   },
   "dependencies": {
-    "@budibase/types": "^2.21.5",
+    "@budibase/types": "^2.21.4",
     "node-fetch": "^2"
   },
   "devDependencies": {
-    "@budibase/backend-core": "^2.21.5",
+    "@budibase/backend-core": "^2.21.4",
     "@babel/core": "^7.19.0",
     "@babel/preset-env": "^7.19.0",
     "@jest/globals": "^29.0.3",
