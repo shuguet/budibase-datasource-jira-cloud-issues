@@ -38,6 +38,7 @@
       },
       "search": {
         "type": "fields",
+        "readable": true,
         "fields": {
           "startAt": {
             "display": "Page Offset",
